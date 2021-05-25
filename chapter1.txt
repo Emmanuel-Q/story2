@@ -1,1 +1,2 @@
 This is my first chapter on the github platform
+I just edited the first chapter
